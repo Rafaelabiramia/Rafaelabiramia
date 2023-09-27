@@ -1,5 +1,5 @@
 Rafael Ramia - Data Analyst
-Profile Picture
+
 
 About Me
 👋 Hello! I'm Rafael Ramia, a passionate and dedicated Data Analyst.
